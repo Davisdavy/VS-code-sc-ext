@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+{
+    "liveServer.settings.port": 5501
+=======
 // Place your settings in this file to overwrite default and user settings.
 {
     "files.exclude": {
@@ -8,4 +12,5 @@
     },
     // Turn off tsc task auto detection since we have the necessary tasks as npm scripts
     "typescript.tsc.autoDetect": "off"
+>>>>>>> ec341938eec68d525ae12db19e47adae1b68cc50
 }
